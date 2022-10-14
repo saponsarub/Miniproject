@@ -1,0 +1,224 @@
+Ranking,Title,Prison_Population_Rate
+1,El Salvador,605
+2,Rwanda,580
+3,Turkmenistan,576
+4,American Samoa (USA),538
+5,Cuba,510
+6,United States of America,505
+7,Panama,478
+8,Virgin Islands (United Kingdom),477
+9,Palau,428
+10,Thailand,411
+11,Bahamas,409
+12,Uruguay,408
+13,Brazil,389
+14,Turkey,374
+15,Anguilla (United Kingdom),367
+16,Guam (USA),355
+17,St. Kitts and Nevis,347
+17,St. Vincent and the Grenadines,347
+19,Belarus,345
+19,Virgin Islands (USA),345
+21,Nicaragua,332
+22,Russian Federation,324
+23,Grenada,323
+24,Seychelles,320
+25,Namibia,318
+26,Maldives,314
+27,Northern Mariana Islands (USA),313
+28,Cayman Islands (United Kingdom),312
+29,Costa Rica,301
+30,Cape Verde (Cabo Verde),296
+31,Puerto Rico (USA),278
+32,Trinidad and Tobago,276
+33,Dominica,275
+34,Gibraltar (United Kingdom),273
+35,Belize,271
+36,Barbados,267
+37,Georgia,264
+37,Peru,264
+39,St. Lucia,263
+40,Cura?ao (Netherlands),261
+40,French Guiana/Guyane (France),261
+42,Fiji,256
+43,Argentina,249
+44,eSwatini/Swaziland,244
+45,Antigua and Barbuda,243
+46,Morocco,240
+47,Guyana,239
+47,South Africa,239
+49,Martinique (France),238
+50,Dominican Republic,236
+50,Taiwan,236
+52,Bahrain,234
+53,Chile,233
+53,Greenland (Denmark),233
+55,Cambodia,229
+56,Gabon,228
+56,Iran,228
+58,Cook Islands (New Zealand),224
+58,Paraguay,224
+60,Macau (China),221
+61,Algeria,217
+62,Azerbaijan,216
+63,Malaysia,212
+64,French Polynesia (France),208
+64,New Caledonia (France),208
+66,Saudi Arabia,207
+67,Honduras,206
+68,Bermuda (United Kingdom),200
+69,Venezuela,199
+70,Tunisia,196
+71,Hungary,194
+72,Mauritius,193
+73,Poland,192
+74,Colombia,191
+75,Brunei Darussalam,186
+76,Suriname,185
+77,Kazakhstan,184
+78,Moldova (Republic of),183
+78,Mongolia,183
+78,Myanmar (formerly Burma),183
+78,Slovakia,183
+82,Lithuania,182
+83,Albania,181
+84,Czech Republic,179
+84,Ecuador,179
+84,Guadeloupe (France),179
+84,Iraq,179
+84,Samoa,179
+84,Sint Maarten (Netherlands),179
+90,Libya,176
+91,Bolivia,175
+92,Jordan,174
+92,Mexico,174
+94,Singapore,169
+95,Israel,168
+96,Laos,166
+96,Tonga,166
+98,Aruba (Netherlands),165
+98,Australia,165
+98,Latvia,165
+101,Botswana,162
+101,Mayotte (France),162
+103,Kyrgyzstan,161
+104,Estonia,159
+104,Malta,159
+106,Serbia,153
+107,Philippines,152
+108,New Zealand,150
+109,Bhutan,145
+110,Uganda,144
+111,Tajikistan,141
+112,Nauru,140
+113,Jersey (United Kingdom),135
+113,Montenegro,135
+113,United Kingdom: England & Wales,135
+113,United Kingdom: Scotland,135
+117,Guatemala,132
+118,Jamaica,130
+118,Reunion (France),130
+118,Vietnam,130
+121,Guernsey (United Kingdom),127
+121,"Micronesia, Federated States of",127
+123,Isle of Man (United Kingdom),126
+124,Ukraine,123
+125,Romania,122
+126,China,119
+126,Portugal,119
+128,Egypt,117
+128,Zambia,117
+130,Cameroon,116
+130,Spain,116
+132,Sao Tome e Principe,115
+132,Zimbabwe,115
+134,Kiribati,113
+135,Kuwait,111
+136,Lebanon,110
+136,Tuvalu,110
+138,North Macedonia,107
+139,France,106
+139,Hong Kong (China),106
+139,Luxembourg,106
+142,Greece,105
+142,Republic of (South) Korea,105
+144,Lesotho,104
+144,United Arab Emirates,104
+146,Benin,103
+147,Sri Lanka,102
+148,Croatia,99
+148,Ethiopia,99
+148,Indonesia,99
+151,Haiti,98
+152,Kenya,97
+152,Madagascar,97
+154,Italy,95
+155,Austria,94
+156,Kosovo/Kosova,93
+157,Burundi,91
+158,Belgium,90
+158,United Kingdom: Northern Ireland,90
+160,Bulgaria,88
+161,Canada,85
+161,Cote d'Ivoire,85
+163,Bosnia and Herzegovina: Federation,83
+163,"Ireland, Republic of",83
+163,Nepal,83
+166,Cyprus (Republic of),80
+167,Angola,79
+167,Solomon Islands,79
+169,Andorra,78
+170,Afghanistan,77
+171,Denmark,72
+171,Switzerland,72
+173,Armenia,71
+173,Djibouti,71
+173,Malawi,71
+176,Sweden,70
+177,Uzbekistan,68
+178,Germany,67
+178,Senegal,67
+180,Marshall Islands,66
+180,Netherlands,66
+180,Slovenia,66
+183,Vanuatu,65
+184,Equatorial Guinea,63
+185,Syria,60
+186,Chad,59
+186,Togo,59
+188,Papua New Guinea,58
+189,Norway,57
+190,Liberia,56
+190,Mozambique,56
+192,Timor-Leste (formerly East Timor),55
+193,Sierra Leone,54
+194,Qatar,53
+195,Sudan,52
+195,Tanzania,52
+197,Finland,51
+198,South Sudan,50
+199,Bangladesh,49
+200,Bosnia and Herzegovina: Republika Srpska,47
+201,Oman,46
+202,Ghana,45
+203,Comoros,43
+203,Mauritania,43
+205,Iceland,41
+206,India,40
+206,Mali,40
+208,Niger,39
+209,Pakistan,38
+210,Japan,36
+211,Burkina Faso,35
+211,Nigeria,35
+211,Yemen,35
+214,Guinea (Republic of),34
+214,Monaco,34
+216,Guinea Bissau,31
+216,Liechtenstein,31
+218,Congo (Republic of),27
+219,Central African Republic,26
+219,San Marino,26
+221,Democratic Republic of Congo,24
+222,Gambia,23
+223,Faeroe Islands (Denmark),21
